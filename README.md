@@ -1,1 +1,3 @@
-# russian_smi_parsers
+# Парсинг российских СМИ: Meduza, RussiaToday, Коммерсант
+
+- 
