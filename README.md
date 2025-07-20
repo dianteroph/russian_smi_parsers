@@ -8,6 +8,6 @@
 
 - `meduza_parsing` - c классом `MeduzaParser`<br>
 - `russia_today_parsing` - с классом `RussiaTodayParser`<br>
-- `kommersant_parsing` - с классом `Kommersantparser`<br>
+- `kommersant_parsing` - с классом `KommersantParser`<br>
 
 А также csv файл с примером собранных статей по запросу 'выборы в сша' c сайта Медузы. 
